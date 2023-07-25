@@ -41,7 +41,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            FREE🪙COIN<span>-&gt;</span>
+            FREE🪙COIN<span></span>
           </h2>
           <p>Official digital asset of Sycotic💢Society</p>
         </a>
@@ -53,7 +53,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            <span>-&gt;</span>
+            <span></span>
           </h2>
           <p></p>
         </a>
@@ -65,7 +65,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            <span>-&gt;</span>
+            <span></span>
           </h2>
           <p></p>
         </a>
@@ -77,7 +77,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-           <span>-&gt;</span>
+           <span></span>
           </h2>
           <p>
         
