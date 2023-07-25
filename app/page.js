@@ -6,8 +6,8 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          SYCOTIC 💢 SOCIETY&nbsp;
-          <code className={styles.code}>Featuring:</code>
+          &nbsp;
+          <code className={styles.code}></code>
         </p>
         <div>
           <a
